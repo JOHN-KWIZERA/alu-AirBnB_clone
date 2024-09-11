@@ -85,4 +85,4 @@ $
 ---------------
 ## Authors 🧑🏿‍🤝‍🧑🏿
 * [Tito-Paris Olisakwe](https://github.com/Tito-Olisakwe)
-* [Ziga Larissa](https://github.com/ZigaLarissa)
+* [Ziga Larissa](https://github.com/JOHN-KWIZERA)
