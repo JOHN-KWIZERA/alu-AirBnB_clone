@@ -84,5 +84,5 @@ $
 
 ---------------
 ## Authors 🧑🏿‍🤝‍🧑🏿
-* [Tito-Paris Olisakwe](https://github.com/Tito-Olisakwe)
+* [Oyinwenebi Fiderikumo](https://github.com/wenebifid)
 * [John Kwizera](https://github.com/JOHN-KWIZERA)
